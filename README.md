@@ -1,46 +1,34 @@
-# Getting Started with Create React App
+# Nutricana CRM
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a modern, premium-quality Customer Relationship Management (CRM) web application built as part of my internship learning journey. The project is a prototype of what I designed for Nutricana Livestock Pvt. Ltd. and showcases a clean, monochrome UI with a focus on modularity, scalability, and real-world business features.
 
-## Available Scripts
+## 🚀 Project Overview
+- **Frontend-only:** This CRM currently has no backend; all data is stored in-memory and resets on refresh. (Backend integration is planned for the future.)
+- **Tech Stack:**
+  - React (with TypeScript)
+  - Material UI (MUI) for a premium, monochrome look
+  - Modular component structure
+  - Ready for backend/API integration (Flask, Node, etc.)
 
-In the project directory, you can run:
+## ✨ Features
+- **Dashboard:** Summary cards for companies, products, and tasks
+- **Products:** Manage Nutricana’s cattle feed products (CRUD, responsive grid)
+- **Companies:** Manage companies/farmers, track purchases (CRUD)
+- **Tasks:** Kanban board for tasks (add/edit/delete, drag-and-drop, responsive)
+- **Account:** User profile/settings form
+- **Modern UI:** FAANG-level design, mobile-friendly, clean codebase
 
-### `npm start`
+## 🧑‍💻 Learning Outcomes
+- Built real-world CRM features from scratch and also about Refine framework
+- Learned best practices in React, TypeScript, and Material UI
+- Practiced modularization, state management, and UI/UX design
+- Gained experience in preparing a codebase for backend/API integration
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 📝 Notes
+- **Persistence:** All data is currently lost on refresh (no backend yet)
+- **Next Steps:** Add a Flask (Python) backend for real data persistence and multi-user support
+- **Portfolio Ready:** This project is suitable for showcasing in a resume or portfolio
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Made with ❤️ as part of my internship learning journey.**
