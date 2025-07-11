@@ -16,7 +16,7 @@ This is a modern, premium-quality Customer Relationship Management (CRM) web app
 - **Companies:** Manage companies/farmers, track purchases (CRUD)
 - **Tasks:** Kanban board for tasks (add/edit/delete, drag-and-drop, responsive)
 - **Account:** User profile/settings form
-- **Modern UI:** FAANG-level design, mobile-friendly, clean codebase
+- **Modern UI:** Mobile-friendly, clean codebase
 
 ## 🧑‍💻 Learning Outcomes
 - Built real-world CRM features from scratch and also about Refine framework
